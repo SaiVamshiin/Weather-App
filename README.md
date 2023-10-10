@@ -1,5 +1,5 @@
 
-# the.weather: Weather App
+# Weather App
 
 Search a location for forecast data.
 

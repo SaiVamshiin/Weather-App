@@ -7,3 +7,4 @@ Search a location for forecast data.
 - Display data in Degree or Fahrenheit.
 
 [Live App](https://saivamshiin.github.io/Weather-App/)
+ ``` preview : https://saivamshiin.github.io/Weather-App/ ```
